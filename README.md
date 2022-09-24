@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shreyas</h1>
 <h3 align="center">A passionate frontend developer and engineer .</h3>
 
-- 🌱 I’m currently learning **Android studio**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **shreyasachar21@gmail.com**
 
